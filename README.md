@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Freelancer
 - 🌱 I’m currently learning Cloud native system
 - 📫 How to reach me: mozss1024@gmail.com
-- ⚡ Fun : Colemak，Linux，PM，Philosophy
+- ⚡ Fun : Colemak，Linux，Philosophy
